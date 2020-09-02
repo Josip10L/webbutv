@@ -5,7 +5,7 @@ body{
 h1{
 	color: black;
 	font-size: 22px;
-	text-decoration: arial;
+	font-family: arial;
 }
 
 .text{
@@ -46,8 +46,7 @@ p{
 }
 
 a{
-	color: blue;
-	font-size: 10px;
+	text-decoration: none;
 }
 
 alt{
